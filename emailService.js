@@ -132,12 +132,7 @@ class EmailService {
   }
 }
 
-// ------------------------ How to Run This in VS Code ------------------------
-// 1. Make sure Node.js is installed (https://nodejs.org)
-// 2. Open VS Code and create a new folder, then save this file as emailService.js
-// 3. In the terminal, run:
-//      node emailService.js
-// ---------------------------------------------------------------------------
+
 
 // ------------------------ Test Runner ------------------------
 (async () => {
